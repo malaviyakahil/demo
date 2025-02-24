@@ -2,8 +2,4 @@ wow lol again check this is awesome
 
 feature add
 feature remove
-<<<<<<< HEAD
-feature update1
-=======
 feature update2
->>>>>>> temp
